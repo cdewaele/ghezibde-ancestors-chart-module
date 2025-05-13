@@ -1,2 +1,2 @@
 # ghezibde-ancestors-chart-module
-Webtrees module Ancestors Chart for Ghezibde 
+Webtrees Ancestors Chart module for Ghezibde 
