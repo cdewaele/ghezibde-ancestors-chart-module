@@ -1,3 +1,5 @@
+> **Ce dépôt a déménagé sur Codeberg : https://codeberg.org/cdewaele/ghezibde-ancestors-chart-module** (archivé ici, lecture seule).
+
 # ghezibde-ancestors-chart-module
 [Webtrees](https://github.com/fisharebest/webtrees) custom Ancestors Chart module for [Ghezibde](https://www.ghezibde.net/genealogie/) online tree.
 
